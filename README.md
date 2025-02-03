@@ -1,8 +1,9 @@
-#Git ssh config
 过年回到老家，GitHub 的SSH拉代码一直出现问题，我又不太喜欢GitHub Desktop，所以修改了下gotoh-connect
 修改过的Connect支持多平台，为了避免很多小伙伴没有编译环境，我编译后会发布到Releases，自行下载即可。
 首先，你还是需要一台国外的可以 ssh 的机器，或者 ssh 帐号的，又或者你有SOCKS5代理
-步骤
+
+# 步骤
+
 1. ssh
 平时工作的时候，还是需要让 ssh 连接保持的。
 ```
