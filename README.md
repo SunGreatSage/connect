@@ -18,7 +18,7 @@ Windows路径下为：C:\Users\你的用户名\\.ssh
 Host github.com
      HostName           github.com
      User               Kael
-     IdentityFile       ~/.ssh/id_rsa
+     IdentityFile       C:\Users\你的用户名\.ssh\id_ed25519
      IdentitiesOnly     yes
      ProxyCommand connect -S 127.0.0.1:1080 %h %p
 ```
