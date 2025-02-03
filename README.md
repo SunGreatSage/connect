@@ -11,7 +11,7 @@
    ssh -D 8989 user@11.1.11.1
    ```
 2. 修改 ~/.ssh/config
-Windows路径下为：C:\Users\你的用户名\.ssh
+Windows路径下为：C:\Users\你的用户名\\.ssh
 下面是我的config：
 
 ```
